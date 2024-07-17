@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebrar Orhan</h1>
 <h3 align="center">I'm second year student in Computer Engineering at Karabuk University.</h3>
 
-- 🌱 I’m currently learning **HTML5,CSS and Javascript**
+- 🌱 I’m currently learning **HTML5,CSS,Javascript and React Native**
 
 - 📫 How to reach me **ebrarorhan9929@hotmail.com**
 
