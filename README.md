@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebrar ORHAN</h1>
 
-<h3 align="center">ebrardev.vercel.app</h3>
+
 - 🌱 Actively learning **React Native, JavaScript**
 
 - 👨‍💻 My website [ebrardev.vercel.app](https://ebrardev.vercel.app)
