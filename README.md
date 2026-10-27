@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ebrar Orhan
 
 <p align="center">
-  <b>Computer Engineer | AI & Computer Vision Enthusiast | Software Developer</b>
+  <b>Computer Engineer | AI & Computer Vision | Software Developer</b>
 </p>
 
 <p align="center">
@@ -29,10 +29,6 @@ I enjoy developing intelligent systems that combine AI models with practical sof
 - 🤖 Focusing on **AI, Machine Learning, and Computer Vision**
 - 🔍 Experienced with **YOLO, OpenCV, image segmentation, and object detection**
 - 📱 Developing cross-platform applications with **React Native**
-- ⚙️ Building backend systems with **Python, FastAPI, and PostgreSQL**
-- 🧠 Exploring **LLMs, AI integrations, and intelligent applications**
-- 🚀 Continuously learning and building new projects
-
 ---
 
 ## 🛠️ Tech Stack
@@ -40,8 +36,6 @@ I enjoy developing intelligent systems that combine AI models with practical sof
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -67,40 +61,6 @@ I enjoy developing intelligent systems that combine AI models with practical sof
 
 ---
 
-## 🚀 Featured Projects
-
-### ⏳ AI-Powered Hourglass Countdown
-A real-time computer vision system designed to estimate the remaining time in an hourglass.
-
-- YOLO-based object detection and sand segmentation
-- OpenCV image processing and perspective correction
-- Real-time countdown estimation
-- Calibration and timer correction algorithms
-
-**Technologies:** Python, YOLOv8, OpenCV, NumPy
-
-### 🎯 Intelligent Gauge Reading System
-An image processing solution for automatically reading analog gauge measurements.
-
-- Needle, center, and keypoint detection
-- Angle-based measurement calculation
-- YOLO and OpenCV integration
-- Automatic value estimation from visual data
-
-**Technologies:** Python, YOLOv8, OpenCV
-
-### 🌍 MOVO — AI-Powered Location-Based Platform
-A location-based application integrating AI capabilities with mobile and backend technologies.
-
-- RESTful API development with FastAPI
-- PostgreSQL and PostGIS integration
-- AI-powered natural language interactions
-- React Native mobile development
-- Geospatial data processing
-
-**Technologies:** React Native, Python, FastAPI, PostgreSQL, PostGIS, Firebase, LLMs
-
----
 
 ## 🔬 Currently Exploring
 
@@ -112,22 +72,19 @@ A location-based application integrating AI capabilities with mobile and backend
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
