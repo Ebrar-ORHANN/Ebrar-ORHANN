@@ -72,24 +72,3 @@ I enjoy developing intelligent systems that combine AI models with practical sof
 
 ---
 
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, building, and exploring new technologies. 🚀</i>
-</p>
